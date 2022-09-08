@@ -18,7 +18,7 @@
     All your files should end with a new line
     The first line of all your files should be exactly #!/bin/bash
 
-# More Info_
+# More Info
 ## Betty linter
 
 To run the Betty linter just with command ```betty <filename>```:
