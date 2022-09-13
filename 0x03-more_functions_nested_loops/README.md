@@ -1,12 +1,13 @@
 # More functions, more nested loops
-
+# Author
+  David Oluwafemi Joshua
 ## Requirements
 * Language: C
-* OS: Ubuntu 14.04 LTS
-* Compiler: gcc 4.8.4
+* OS: Ubuntu 20.04 LTS
+* Compiler: gcc 9.4.0
 
 ## Synopsis
-This repository holds some projects I worked on for Holberton School. The goal was to learn coding and concepts through the C programming language.
+This repository holds some projects I worked on for ALX. The goal was to learn coding and concepts through the C programming language.
 
 ## Concepts I gained a deeper understanding of include:
 * nested loops and how to use them
@@ -31,7 +32,3 @@ This repository holds some projects I worked on for Holberton School. The goal w
 10. a function that prints a triangle with # based on size argument
 11. a program that finds and prints the largest prime factor of the number 612852475143
 12. a function that prints an integer
-
-## Authors
-* Melissa Ng
-
