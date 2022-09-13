@@ -1,15 +1,15 @@
 
 # Functions and nested loops
 
-### Authors
+### Author
 
-* Melissa Ng
+* David Oluwafemi Joshua
 
 ### Requirements
 
 * C programming language
-* Ubuntu 14.04 LTS
-* gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic
+* Ubuntu 22.04 LTS
+* gcc 9.4.0 using the flags -Wall -Werror -Wextra and -pedantic
 
 ## Synopsis
 
