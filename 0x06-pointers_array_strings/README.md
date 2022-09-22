@@ -43,6 +43,6 @@ This repository holds some projects I worked on for Holberton School. The goal i
     -  each line ends with a new line \n
     - if size is 0 or less, the output should be a new line only \n
 
-## Authors
-* Melissa Ng
+## Author
+* David Oluwafemi Joshua
 
