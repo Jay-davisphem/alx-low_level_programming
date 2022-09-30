@@ -23,7 +23,7 @@ This repository holds some projects I worked on for Holberton School. The goal i
 100. a program that prints the minimum number of coins to make change for an amount of money
 
 ## Authors
-* Melissa Ng
+* David Oluwafemi
 
 ## License
 * The Holberton School
