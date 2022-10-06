@@ -17,10 +17,7 @@
 4. a header file with function-like macro SUM(x, y) that computes the sum of the numbers x and y
 
 ### Authors
-Melissa Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/MelissaNg__)
+David Oluwafemi [![D](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/oluw4femi)
 
 ### License
  MIT
-
----
- [![M](https://www.holbertonschool.com/holberton-logo-simple-200s.png)](https://www.holbertonschool.com)

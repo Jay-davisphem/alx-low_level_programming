@@ -24,7 +24,7 @@ This repository holds some projects I worked on for Holberton School. The goal i
 8. a function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0
 
 ## Authors
-* Melissa Ng
+* David Oluwafemi
 
 ## License
 * The Holberton School

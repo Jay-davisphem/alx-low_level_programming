@@ -31,7 +31,7 @@ This repository holds some projects I worked on for Holberton School. The goal i
     - [tutorial] (https://www.linux.com/blog/cracking-simple-passworded-file-beginners-guide-security)
 
 ## Authors
-* Melissa Ng
+* David Oluwafemi
 
 ## License
 * The Holberton School

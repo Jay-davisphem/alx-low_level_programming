@@ -16,10 +16,7 @@
 3. a program that performs simple operator calculations (consist of 4 files starting with "3-")
 
 ### Authors
-Melissa Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/MelissaNg__)
-
+David Oluwafemi
 ### License
  MIT
 
----
- [![M](https://www.holbertonschool.com/holberton-logo-simple-200s.png)](https://www.holbertonschool.com)

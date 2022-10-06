@@ -40,5 +40,5 @@ This repository holds some projects I worked on for Holberton School. The goal i
 11. a program that generates random valid passwords for the program [101-crackme](https://github.com/holbertonschool/0x04.c)
 
 ## Authors
-* Melissa Ng
+* David Oluwafemi
 
