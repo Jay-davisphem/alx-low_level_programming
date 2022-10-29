@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * get_endianness - checks if multibyte data is stored as little or big endian
