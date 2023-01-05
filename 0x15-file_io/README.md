@@ -22,8 +22,8 @@
 ## Environment
 
 -   Language: C
--   OS: Ubuntu 14.04 LTS
--   Compiler: gcc 4.8.4
+-   OS: Ubuntu 20.04 LTS
+-   Compiler: gcc 11.3.0
 -   Style guidelines: [Betty style](https://github.com/holbertonschool/Betty/wiki)
 
 ---
